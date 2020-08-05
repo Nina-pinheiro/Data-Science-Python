@@ -14,6 +14,7 @@ Machine Learning and  Estatística em Python
 🍀 Bibliotecas necessárias
 
 * import matplotlib.pyplot as plt
+* import scipy.stats as stats
 * import pandas as pd
 * import statsmodels.api as sm
 * import pylab as pl
