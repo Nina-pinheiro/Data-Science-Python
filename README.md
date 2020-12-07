@@ -13,23 +13,25 @@ Machine Learning and  Estatística em Python
 
 🍀 Bibliotecas necessárias
 
-* import matplotlib.pyplot as plt
-* import scipy.stats as stats
-* import pandas as pd
-* import statsmodels.api as sm
-* import pylab as pl
-* import numpy as np
-* from patsy import dmatrix 
-* import seaborn as sns
-* from sklearn.preprocessing import StandardScaler
-*import warnings
-*from mpl_toolkits.mplot3d import Axes3D
-*from sklearn.preprocessing import MinMaxScaler
-*from sklearn import preprocessing
-*from sklearn.cluster import KMeans
-*import plotly as py
-*warnings.filterwarnings("ignore")
-*py.offline.init_notebook_mode(connected = True)
+* import matplotlib.pyplot as plt<br/>
+* import scipy.stats as stats<br/>
+* import pandas as pd<br/>
+* import statsmodels.api as sm<br/>
+* import pylab as pl<br/>
+* import numpy as np<br/>
+* from patsy import dmatrix<br/> 
+* import seaborn as sns<br/>
+* from sklearn.preprocessing import StandardScaler<br/>
+*import warnings<br/>
+*from mpl_toolkits.mplot3d import Axes3D<br/>
+*from sklearn.preprocessing import MinMaxScaler<br/>
+*from sklearn import preprocessing<br/>
+*from sklearn.cluster import KMeans<br/>
+from sklearn.cluster import AgglomerativeClustering<br/>
+from scipy.cluster.hierarchy import dendrogram<br/>
+*import plotly as py<br/>
+*warnings.filterwarnings("ignore")<br/>
+*py.offline.init_notebook_mode(connected = True)<br/>
 
 
 🍀 Referência
